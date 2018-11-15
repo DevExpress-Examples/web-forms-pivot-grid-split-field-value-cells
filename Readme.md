@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Data.cs](./CS/ASPxPivotGrid_SplittingCells/Data.cs) (VB: [Data.vb](./VB/ASPxPivotGrid_SplittingCells/Data.vb))
+* [Default.aspx](./CS/ASPxPivotGrid_SplittingCells/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SplittingCells/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_SplittingCells/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SplittingCells/Default.aspx.vb))
+<!-- default file list end -->
 # How to split field value cells
 
 
