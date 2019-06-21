@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/ASPxPivotGrid_SplittingCells/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SplittingCells/Default.aspx.vb))
 <!-- default file list end -->
 # How to split field value cells
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2762/)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to split field value cells.</p>
