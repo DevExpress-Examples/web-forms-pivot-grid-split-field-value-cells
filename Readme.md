@@ -9,7 +9,7 @@ The following example demonstrates how to split field value cells. In this examp
 
 ![|Pivot Grid](images/screenshot.png)
 
-Handle the [CustomFieldValueCells] (https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid.CustomFieldValueCells) and call the event parameter's [Split](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.PivotCustomFieldValueCellsEventArgs.Split.overloads) method is used. Cells that should be split are identified by a predicate that returns `true` for those cells. The quantity, size and captions of newly created cells are specified by an array of cell definitions (the `FieldValueSplitData` objects).
+Handle the [CustomFieldValueCells](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid.CustomFieldValueCells) and call the event parameter's [Split](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPivotGrid.PivotCustomFieldValueCellsEventArgs.Split.overloads) method is used. Cells that should be split are identified by a predicate that returns `true` for those cells. The quantity, size and captions of newly created cells are specified by an array of cell definitions (the `FieldValueSplitData` objects).
 
 ## Files to Review
 
