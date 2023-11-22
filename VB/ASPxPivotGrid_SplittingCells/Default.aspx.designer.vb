@@ -7,55 +7,50 @@
 '     the code is regenerated.
 ' </auto-generated>
 '------------------------------------------------------------------------------
-
-
-Imports Microsoft.VisualBasic
-Imports System
 Namespace ASPxPivotGrid_SplittingCells
 
+    ''' <summary>
+    ''' _Default class.
+    ''' </summary>
+    ''' <remarks>
+    ''' Auto-generated class.
+    ''' </remarks>
+    Public Partial Class _Default
 
-	''' <summary>
-	''' _Default class.
-	''' </summary>
-	''' <remarks>
-	''' Auto-generated class.
-	''' </remarks>
-	Partial Public Class _Default
+        ''' <summary>
+        ''' Head1 control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected Head1 As Global.System.Web.UI.HtmlControls.HtmlHead
 
-		''' <summary>
-		''' Head1 control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected Head1 As Global.System.Web.UI.HtmlControls.HtmlHead
+        ''' <summary>
+        ''' form1 control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
-		''' <summary>
-		''' form1 control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+        ''' <summary>
+        ''' radioButtonList control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected radioButtonList As Global.System.Web.UI.WebControls.RadioButtonList
 
-		''' <summary>
-		''' radioButtonList control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected radioButtonList As Global.System.Web.UI.WebControls.RadioButtonList
-
-		''' <summary>
-		''' pivotGrid control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected pivotGrid As Global.DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid
-	End Class
+        ''' <summary>
+        ''' pivotGrid control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected pivotGrid As Global.DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid
+    End Class
 End Namespace
