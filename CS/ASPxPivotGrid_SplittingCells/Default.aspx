@@ -1,6 +1,6 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs"
     Inherits="ASPxPivotGrid_SplittingCells._Default" %>
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v13.1, Version=13.1.14.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v23.1, Version=23.1.6.0,
     Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxPivotGrid"
     TagPrefix="dx" %>
