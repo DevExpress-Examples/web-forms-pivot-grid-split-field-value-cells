@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Pivot Grid for Web Forms - Split Field Value Cells
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2762/)**
+<!-- run online end -->
 
 The following example demonstrates how to split field value cells. In this example, the Grand Total column header is split into two cells: *Price* and *Count*.
 
