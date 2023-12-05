@@ -21,5 +21,9 @@ Handle the [CustomFieldValueCells](https://docs.devexpress.com/AspNet/DevExpress
 
 * [Field Value](https://docs.devexpress.com/AspNet/3597/components/pivot-grid/ui-elements/field-value)
 
+## More Examples
+
+- [Pivot Grid for Web Forms - How to Hide Specific Rows and Columns](https://github.com/DevExpress-Examples/how-to-hide-particular-rows-and-columns-e2767)
+
 
 
